@@ -2,3 +2,9 @@
     width: 100%;
     height: 400px;
 }
+.events .heading{
+    font-family: 'Inter' !important;
+    font-size: 2.5rem !important;
+    color: #FF9671;
+    font-weight: 600;
+}
